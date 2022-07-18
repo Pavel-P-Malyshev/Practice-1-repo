@@ -1,0 +1,8 @@
+if (cndition)
+{ 
+    /// condition -> TRUE
+}
+else
+{
+    ///condition  -> FALSE
+}
